@@ -1,0 +1,14 @@
+# Jangan pernah commit secrets
+.env
+*.env
+.env.*
+*.pem
+*.key
+**/node_modules/
+**/dist/
+**/.next/
+**/build/
+**/coverage/
+**/uploads/
+**/logs/
+*.log
